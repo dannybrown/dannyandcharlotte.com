@@ -1,11 +1,9 @@
 ---
 layout: page
-title: FAQ
+title: FAQs
 permalink: /faq/
 main_nav: true
 ---
-# Frequently Asked Questions
-
 ## How do I RSVP?
 Please email rsvp@dannyandcharlotte.com, if you are a day guest please include any dietary requirements and your menu choices. If you have any song requests please feel free to send them our way!
 

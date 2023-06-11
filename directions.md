@@ -4,7 +4,6 @@ title: Travel
 permalink: /travel/
 main_nav: true
 ---
-# Travel
 ## Taxis
 If you're not staying at the venue we recommend prebooking all taxis, as phone signal in this part of Bedfordshire is particularly bad. The closest taxi company is Village cars, you can book them online [using this website](https://village-taxis.com). Make sure you put in Shuttleworth House rather than the collection.
 
