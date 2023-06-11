@@ -2,6 +2,7 @@
 layout: page
 title: Order of Service
 permalink: /oos/
+cover: /assets/oos.jpeg
 main_nav: true
 ---
 
