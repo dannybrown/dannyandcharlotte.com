@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Travel
+cover: /assets/travel.jpeg
 permalink: /travel/
 main_nav: true
 ---

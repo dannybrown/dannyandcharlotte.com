@@ -1,6 +1,7 @@
 ---
 layout: page
 title: FAQs
+cover: /assets/faq.jpeg
 permalink: /faq/
 main_nav: true
 ---
