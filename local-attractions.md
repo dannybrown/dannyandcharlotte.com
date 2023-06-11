@@ -5,7 +5,6 @@ permalink: /attractions/
 main_nav: true
 ---
 
-# Local attractions
 Despite living in the middle of nowhere there's a surprising amount of places to visit and nice walks. In case you're looking for something to do the day before or after, here are some of our favourite places to visit.
 
 ## Closest

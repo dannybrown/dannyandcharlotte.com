@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Where to stay
-permalink: /where-to-stay/
+title: Hotels
+permalink: /hotels/
 main_nav: true
 ---
 
