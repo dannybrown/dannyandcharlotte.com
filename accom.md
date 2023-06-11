@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Hotels
-cover: header_image_us.jpeg
+cover: /assets/header_image_us.jpeg
 permalink: /hotels/
 main_nav: true
 ---
