@@ -2,6 +2,7 @@
 layout: page
 title: Local Attractions
 permalink: /attractions/
+cover: /assets/local.jpeg
 main_nav: true
 ---
 
