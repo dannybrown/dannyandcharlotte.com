@@ -10,7 +10,7 @@ main_nav: true
 
 # Closest
 - [Black Horse at Ireland](https://blackhorseireland.com): Ireland, Bedfordshire that is! Very good quality food, rooms include continental breakfast. 
-- [Estate housing](https://www.landmarktrust.org.uk/search-and-book/landmark-groups/old-warden/#Search): there are a few landmark to stay around the estate if you're looking for something more unique. All have a minimum stay of Friday to Sunday and are a bit more expensive, though. 
+- [Estate housing](https://www.landmarktrust.org.uk/search-and-book/landmark-groups/old-warden/#Search): there are a few landmark buildings to stay around the estate if you're looking for something more unique. All have a minimum stay of Friday to Sunday and are a bit more expensive, though. 
 
 Ireland is about a 5 minute taxi or an hour's stumble down an unlit country road (not advised!). The houses on the estate are about a 15 minute walk. 
 
