@@ -2,6 +2,7 @@
 layout: page
 title: Food and Drink
 permalink: /food-and-drink/
+cover: /assets/food.jpeg
 main_nav: true
 ---
 In case you've not headed this way before and you're wondering where to go the day before or day after, here are some of our favourite local restaurants and drinking establishments.
