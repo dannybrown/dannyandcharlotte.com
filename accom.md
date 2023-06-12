@@ -22,6 +22,11 @@ Ireland is about a 5 minute taxi or an hour's stumble down an unlit country road
 
 All hotels in Biggleswade will be about a 15 minute taxi drive from the venue, and around about £10 before 11 or £15 after.
 
+# Potton
+- [Coach House](https://www.coachhousepotton.co.uk/#bedroom_booking)
+
+Potton will be again, around 15 minutes in a taxi and a similar cost.
+
 # Close by villages
 If looking for anything else it is best to stick in Shefford, Langford, Old Warden, Henlow or Ireland, (aka, the west side of the A1), as these are easiest to reach from the venue. Plenty of options on Booking.com or by searching "hotels near shuttleworth house" on Google maps.
 
