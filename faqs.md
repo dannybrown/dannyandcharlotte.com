@@ -12,7 +12,7 @@ Please email rsvp@dannyandcharlotte.com, if you are a day guest please include a
 We'd love to see everyone dressed in their best for the occasion! Just a note that the venue insists any stiletto shoes inside the house have to have heel protectors to protect the floors. We will be providing some, please put them over your heels when you arrive should that be your choice of footwear. 
 
 ## Should we bring gifts?
-We bought our first house a couple of years ago, and are lucky enough to be well stocked with homewares as a result. We would much prefer you put the money into an amazing fascinator or top hat instead. There will be a guestbook and a postbox for cards at the venue.
+Your presence at our big day is the best gift you could possibly give us! We would much prefer you put the money into an amazing fascinator or top hat instead. There will be a postbox for cards and a guestbook at the venue which we would love for you to sign.
 
 ## Are kids allowed?
 You are welcome to come with (or without) your children! The drawing room in the main house (the one with the big dining table) will be available as a quiet room should anyone be feeling a bit overwhelmed or want a quiet chat with a relative :) We would appreciate if the late evening when everyone's had a few was child free, though.
