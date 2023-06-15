@@ -9,7 +9,7 @@ main_nav: true
 Please email rsvp@dannyandcharlotte.com, if you are a day guest please include any dietary requirements and your menu choices. If you have any song requests please feel free to send them our way!
 
 ## What should I wear?
-Standard wedding wear please, please avoid royal purple or forest green solid colours (and obviously white for women!). Unfortunately the venue insists any stiletto shoes inside the house have to have heel protectors to protect the floors. We will be providing some, please put them over your heels when you arrive should that be your choice of footwear. 
+We'd love to see everyone dressed in their best for the occasion! Just a note that the venue insists any stiletto shoes inside the house have to have heel protectors to protect the floors. We will be providing some, please put them over your heels when you arrive should that be your choice of footwear. 
 
 ## Should we bring gifts?
 We bought our first house a couple of years ago, and are lucky enough to be well stocked with homewares as a result. We would much prefer you put the money into an amazing fascinator or top hat instead. There will be a guestbook and a postbox for cards at the venue.
