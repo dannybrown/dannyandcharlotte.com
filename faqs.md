@@ -25,6 +25,7 @@ The categories of scoring will be:
 - overall presentation
 - whether you made it yourself
 - colourfulness
+
 But please, for the love of god, don't make it steampunk. Applications for being judgemental to be submitted on the back of a postcard, or with your RSVP. 
 
 ## Will Konnie Huq be there?
