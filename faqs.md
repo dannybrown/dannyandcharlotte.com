@@ -17,9 +17,6 @@ Your presence at our big day is the best gift you could possibly give us! We wou
 ## Are kids allowed?
 You are welcome to come with (or without) your children! The drawing room in the main house (the one with the big dining table) will be available as a quiet room should anyone be feeling a bit overwhelmed or want a quiet chat with a relative :) We would appreciate if the late evening when everyone's had a few was child free, though.
 
-## What about pets?
-Please console yourself that there are peacocks, supposedly (all you need to convince people they exist is a sign saying "please close the gates to keep the peacocks in"), in the swiss garden, whilst leaving your pets to enjoy the peace and quiet somewhere else.
-
 ## How will the fascinator and hat competition be judged?
 The categories of scoring will be:
 - overall presentation

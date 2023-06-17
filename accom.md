@@ -18,14 +18,14 @@ Ireland is about a 5 minute taxi or an hour's stumble down an unlit country road
 - [Stratton House Hotel](https://www.strattonhouse-hotel.co.uk): Fairly traditional central hotel in Biggleswade built in the 17th century.
 - [The Crown Hotel](https://www.booking.com/hotel/gb/the-crown-wetherspoon.en-gb.html): Wetherspoons, central Biggleswade. Rooms are "very nice" according to local reviews.
 - Stratton Guest House: a bit more basic but comfortable rooms. Very close to the train station
-- Chic House: I imagine similar to the Guest House. These two are buildings opposite each other
+- Chic House: similar to the Guest House. These two are buildings opposite each other
 
-All hotels in Biggleswade will be about a 15 minute taxi drive from the venue, and around about £10 before 11 or £15 after.
+All hotels in Biggleswade will be about a 10-15 minute taxi drive from the venue, and around about £10 before 11 or £15 after.
 
 # Potton
-- [Coach House](https://www.coachhousepotton.co.uk/#bedroom_booking)
+- [Coach House](https://www.coachhousepotton.co.uk/#bedroom_booking) - been here a few times for lunch etc, big car park which the ones in Biggleswade may not have. (though there are plenty of very cheap council owned car parks)
 
-Potton will be again, around 15 minutes in a taxi and a similar cost.
+Potton will be around 15 minutes in a taxi and a similar cost.
 
 # Close by villages
 If looking for anything else it is best to stick in Shefford, Langford, Old Warden, Henlow or Ireland, (aka, the west side of the A1), as these are easiest to reach from the venue. Plenty of options on Booking.com or by searching "hotels near shuttleworth house" on Google maps.
