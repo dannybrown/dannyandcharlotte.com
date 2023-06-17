@@ -27,9 +27,6 @@ All hotels in Biggleswade will be about a 10-15 minute taxi drive from the venue
 
 Potton will be around 15 minutes in a taxi and around £10-15 depending on time.
 
-# Close by villages
-If looking for anything else it is best to stick in Shefford, Langford, Old Warden, Henlow or Ireland, (aka, the west side of the A1), as these are easiest to reach from the venue. Plenty of options on Booking.com or by searching "hotels near shuttleworth house" on Google maps.
-
 # Further afield
 - [Mercure Hotel, Letchworth](https://all.accor.com/hotel/7243/index.en.shtml?dateIn=&nights=&compositions=1&stayplus=false&snu=false#origin=mercure): fairly nice hotel in a very nice building. Have been in for a drink whilst charging our EV once or twice!
 - [Premier Inn, Letchworth](https://www.premierinn.com/gb/en/hotels/england/hertfordshire/letchworth-garden-city/letchworth-garden-city.html)
