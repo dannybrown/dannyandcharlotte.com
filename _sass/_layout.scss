@@ -95,6 +95,7 @@ pre code.hljs {
 	width: 100%;
 	text-align: center;
 	&.has-cover {
+		height: 650px;
 		color: $white;
 		text-shadow: 0 2px 1px rgba(0,0,0,0.67) !important;
 		background-position: 50% 50%;
@@ -107,6 +108,7 @@ pre code.hljs {
 		}
 	}
 	.scrim {
+		height: 650px;
 		padding: 3em 1em;
 		&.has-cover {
 			background-color: rgba(0,0,0,0.2);
