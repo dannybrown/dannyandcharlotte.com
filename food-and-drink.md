@@ -9,6 +9,7 @@ In case you've not headed this way before and you're wondering where to go the d
 
 # Proper pubs
 - [The Cock Inn, Broom](https://www.thecockinnbroom.com): brown signs from the road as it's a historic pub with "no bar" - just a keg room with a table in front of it. Great rotating selection of beers. Roast of the day available every day!
+- [The White Horse, Southill](https://thewhitehorsesouthill.co.uk): quite an idylic, countryside pub with a big beer garden and a good selection of food and beer.
 - [The Anchor, Great Barford](https://www.anchorinngreatbarford.co.uk): riverside pub next to the bridge of many arches. Common for people to get takeaway food and beers and sit by the river.
 - Couple of nice pubs in Gamlingay we've been meaning to check out, report back if you make it up that way!
 
