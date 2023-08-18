@@ -35,3 +35,4 @@ In case you've not headed this way before and you're wondering where to go the d
 # Misc
 - [O'Sarracino, Potton and Biggleswade](https://osarracino.co.uk): small family run italian in a wood beam building in Potton, and another in a slightly more modern building in Biggleswade. Booking recommended, especially in Potton.
 - [Pera Kitchen, Biggleswade](https://www.perakitchen.com): Turkish, good food, good atmosphere.
+- [The Shack, Biggleswade](https://www.theshackburgers.co.uk): very big selection of grilled sandwiches, chicken tenders and burgers. Great cocktails
